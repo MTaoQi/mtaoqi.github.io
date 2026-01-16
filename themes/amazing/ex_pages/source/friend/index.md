@@ -14,7 +14,7 @@ date: 2019-09-09 18:52:09
     网站图标：https://mtaoqi.github.io/images/avatar.jpg
     网站名称：有木兮
     网站地址：https://removeif.github.io
-    网站简介：后端开发，技术分享
+    网站简介：前端开发，技术分享
 
 
 <script type="text/javascript" defer src="/js/friend.js"></script>
