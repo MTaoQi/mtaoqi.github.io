@@ -77,7 +77,7 @@ navbar:
         首页: /
         归档: /archives
         分类: /categories
-        # 标签: /tags
+        标签: /tags
         # 影音: /media
         # 相册: /album
         # 友链: /friend
