@@ -1,6 +1,7 @@
 ---
-thumbnail: https://cdn.jsdelivr.net/gh/removeif/blog_image/img/2020/20201030172650.png
-date: 2018-11-11 08:24:49
+# thumbnail: https://cdn.jsdelivr.net/gh/removeif/blog_image/img/2020/20201030172650.png
+thumbnail: /img/bak.jpg
+date: 2026-01-16 22:18:49
 comments: false
 ---
 
@@ -104,7 +105,7 @@ comments: false
 
 <br>
 
-#### 时间轴记录
+<!-- #### 时间轴记录
 
 ---
 
@@ -113,4 +114,4 @@ comments: false
 </div>
 <script src="/js/about-me.js"></script>
 <br>
-<br>
+<br> -->
