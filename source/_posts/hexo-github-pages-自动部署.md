@@ -3,6 +3,8 @@ title: hexo github pages 自动部署
 date: 2026-01-16 21:34:22
 tags:
 ---
+.github\workflows\autodeploy.yml
+```ymal
 # 当有改动推送到master分支时，启动Action
 name: 自动部署
 
@@ -69,3 +71,5 @@ jobs:
 
             - name: 部署到 GitHub Pages
               uses: actions/deploy-pages@v4
+
+```
